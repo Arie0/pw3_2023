@@ -1,4 +1,4 @@
-git remote add origin https://github.com/Arie0/pw3_2023.gitgit remote add origin https://github.com/Arie0/pw3_2023.gitpackage com.example.pw3.controllers;
+package com.example.pw3.controllers;
 
 import java.util.Collection;
 
